@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.registration-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+}
+.registration-image {
+  width: 80%;
+}
+.closed-image {
+  width: 70%;
+}
+.closed-description {
+  text-align: center;
+}
+li {
+  list-style-type: none;
+}

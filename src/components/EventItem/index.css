@@ -1,0 +1,17 @@
+.event-container {
+  width: 30vw;
+  margin: 10px;
+}
+.event-image {
+  width: 100%;
+  cursor: pointer;
+}
+.event-title {
+  color: white;
+}
+.event-location {
+  color: white;
+}
+button {
+  border-radius: 20px;
+}
